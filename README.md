@@ -42,6 +42,6 @@ Development
   Gameplay
   </h2>
   <div align = "center">
-  <img src = "Sonic.gif">
+  <img src = "SONIC.gif">
   </div>
 
