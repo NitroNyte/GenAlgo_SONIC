@@ -42,6 +42,6 @@ Development
   Gameplay
   </h2>
   <div align = "center">
-  <img src = "[SONIC.gif](https://github.com/NitroNyte/GenAlgo_SONIC/blob/main/SONIC.gif)"/>
+  <img src = "https://github.com/NitroNyte/GenAlgo_SONIC/blob/main/SONIC.gif"/>
   </div>
 
