@@ -6,7 +6,6 @@ Sonic AI with Genetic Algorithm
   
   <p align = "center">
 A Genetic algorithm that revolves around the game Sonic The Hedgehog. This algorithm is used to create and learn how to play the game.
-The algorithm was created by me and a friend (His github: https://github.com/Egzonit03) with some help from a another friend (If interested about his projects here is his github: https://github.com/simplicity-load).
 </p>  
 <br>
 <br>
